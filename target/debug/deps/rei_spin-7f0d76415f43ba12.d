@@ -1,0 +1,27 @@
+/run/media/cian/le big one/projects/rei_spin/target/debug/deps/rei_spin-7f0d76415f43ba12.d: src/main.rs /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_000.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_001.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_002.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_003.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_004.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_005.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_006.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_007.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_008.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_009.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_010.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_011.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_012.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_013.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_014.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_015.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_016.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_017.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_018.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_019.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_020.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_021.txt
+
+/run/media/cian/le big one/projects/rei_spin/target/debug/deps/librei_spin-7f0d76415f43ba12.rmeta: src/main.rs /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_000.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_001.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_002.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_003.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_004.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_005.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_006.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_007.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_008.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_009.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_010.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_011.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_012.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_013.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_014.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_015.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_016.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_017.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_018.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_019.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_020.txt /run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_021.txt
+
+src/main.rs:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_000.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_001.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_002.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_003.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_004.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_005.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_006.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_007.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_008.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_009.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_010.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_011.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_012.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_013.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_014.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_015.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_016.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_017.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_018.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_019.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_020.txt:
+/run/media/cian/le\ big\ one/projects/rei_spin/ascii_frames/frame_021.txt:
